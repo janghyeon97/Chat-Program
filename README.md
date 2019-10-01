@@ -1,5 +1,4 @@
 # Study
-# BG = Background
 
 #SERVER
 TCP.java  
